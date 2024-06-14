@@ -1,0 +1,160 @@
+{
+  "Header": {
+    "title": "Next Fitness",
+    "paragraph": "Success isn't owned, it's leased. And rent is due every day in the gym. Show up, work hard, and let your determination pave the way to you next level of fitness."
+  },
+  "About": {
+    "paragraph": "At Next Fitness, we're not just a fitness center; we're a community dedicated to transforming lives, one workout at a time. Nestled in the heart of California, our state-of-the-art facility is more than just a place to break a sweat—it's a sanctuary where individuals of all fitness levels come together to pursue their health and wellness goals.",
+    "Why": [
+      "Welcoming atmosphere",
+      "Encouragement among members",
+      "Positive and uplifting environment",
+      "Group fitness classes"
+    ],
+    "Why2": [
+      "One-on-one training sessions",
+      "Flexible Membership Options",
+      "Focus on Holistic Health",
+      "Diverse Fitness Options"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "High Intensity Interval Training (HIIT)",
+      "largeImage": "img/portfolio/hiit.png",
+      "smallImage": "img/portfolio/hiit.png"
+    },
+    {
+      "title": "Strength & Conditioning",
+      "largeImage": "img/portfolio/strength.png",
+      "smallImage": "img/portfolio/strength.png"
+    },
+    {
+      "title": "Yoga & Meditation",
+      "largeImage": "img/portfolio/yoga.png",
+      "smallImage": "img/portfolio/yoga.png"
+    },
+    {
+      "title": "Spin & Cycle",
+      "largeImage": "img/portfolio/spin.png",
+      "smallImage": "img/portfolio/spin.png"
+    },
+    {
+      "title": "Boxing & Kickboxing",
+      "largeImage": "img/portfolio/kickboxing.png",
+      "smallImage": "img/portfolio/kickboxing.png"
+    },
+    {
+      "title": "Dance Fitness",
+      "largeImage": "img/portfolio/dance.png",
+      "smallImage": "img/portfolio/dance.png"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-meh-o",
+      "name": "Basic Membership",
+      "text": "Enjoy access to our state-of-the-art gym equipment and take advantage of our group fitness classes designed to boost your motivation and keep you on track.",
+      "list": [
+        "Cardio Machines",
+        "Free Weights",
+        "Strength Training Equipment",
+        "Group Fitness Classes"
+      ]
+    },
+    {
+      "icon": "fa fa-smile-o",
+      "name": "Premium Membership",
+      "text": " In addition to all the benefits of the Basic Membership, you'll also receive exclusive perks such as access to our luxurious amenities like saunas, steam rooms, and relaxation areas.",
+      "text2": " Enjoy priority booking for personal training sessions and specialty classes, ensuring you get the attention and guidance you need to reach your goals faster.",
+      "list": [
+        "Cardio Machines",
+        "Free Weights",
+        "Strength Training Equipment",
+        "Group Fitness Classes"
+      ]
+    },
+    {
+      "icon":"fa fa-diamond",
+      "name": "Elite Membership",
+      "text": " Enjoy everything included in the Premium Membership, along with additional perks such as complimentary guest passes, discounts on merchandise and supplements, and priority access to special events and workshops.",
+      "text2": " With dedicated support from our expert trainers and coaches, you'll experience personalized training programs tailored to your specific needs and objectives.",
+      "list": [
+        "Cardio Machines",
+        "Free Weights",
+        "Strength Training Equipment",
+        "Group Fitness Classes"
+      ]
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Joined this gym a few months ago and it's been life-changing! The trainers are so knowledgeable and really push you to reach your goals. Plus, the community atmosphere makes working out fun and enjoyable.\"",
+      "name": "John Smith"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I'm so glad I found this gym! The trainers are so inspiring and always push me to be my best self. I've never felt more motivated to work out and take care of my health. Thank you for changing my life!\"",
+      "name": "Nathan Brooks"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I've been a member here for years and I'm still amazed by the level of dedication and support from the staff. They truly care about your success and go above and beyond to help you achieve your fitness goals.\"",
+      "name": "Ethan Manning"
+    }
+
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@nextfitness.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
